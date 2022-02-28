@@ -16,7 +16,7 @@ The key concept behind REST APIs is that they are inherently stateless, that is,
 
 REST APIs typically consume and produce JSON-formatted content. A successor to XML, JSON documents are easy for a computer to parse and easy for a human to read.
 
-### Verbs
+### Verbs 
 
 Typically, REST API operations are carried out over HTTP; consequently most REST API actions are based around HTTP verbs (POST, PUT, DELETE, and so on). The actions typically available are:
 
